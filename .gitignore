@@ -2,3 +2,5 @@
 *.swp
 *.DS*
 .ipynb_checkpoints/
+output/
+progress.py
